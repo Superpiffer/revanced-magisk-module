@@ -1,3 +1,4 @@
+Reddit-Extended: 2025.03.0  
 YouTube-Extended: 19.44.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
